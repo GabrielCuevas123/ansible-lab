@@ -30,7 +30,7 @@ ansible-playbook -i inventory.ini playbook.yml
 ## Capturas de la ejecución exitosa
 
 ### Captura 1
-![Ejecución del playbook - captura 1](captura.png)
+![Ejecución del playbook - captura 1](captura.jpeg)
 
 ### Captura 2
-![Ejecución del playbook - captura 2](captura2.png)
+![Ejecución del playbook - captura 2](captura2.jpeg)
